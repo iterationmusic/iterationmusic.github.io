@@ -69,8 +69,6 @@ But to be safe so you do not waste a bullet on some compost, tell them that thes
 
 ## Track list
 
-<html>
-
 ### Ground Zero
 
 <audio controls>
@@ -418,5 +416,3 @@ But to be safe so you do not waste a bullet on some compost, tell them that thes
 <audio controls>
   <source src="60. The Sun Still Rises.mp3" type="audio/mpeg">
 </audio>
-
-</html>
