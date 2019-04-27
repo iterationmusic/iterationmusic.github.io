@@ -40,6 +40,7 @@ But to be safe so you do not waste a bullet on some compost, tell them that thes
 
 * Serafinski - *Blessed is the flame*
 * The Invisible Committee - *The Coming Insurrection*, *To Our Friends*, *Now*
+* Ziq - *Indigenous Anarchy & The Need for a Rejection of the Colonizer's "Civilization"*, *Fuck Your Red Revolution*, *Anarchy Vs. Archy: No Justified Authority*
 * Alfredo M. Bonanno - *Why Insurrection*
 * Max Stirner - *The Ego and Its Own*
 * Black Oak Clique - *We Are All Going to Die*
