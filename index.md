@@ -12,11 +12,11 @@
 
 ## To Download
 
-*ZIP ARCHIVE*
+**ZIP ARCHIVE**
 
-https://github.com/iterationmusic/iterationmusic.github.io/archive/master.zip
+[DOWNLOAD](https://github.com/iterationmusic/iterationmusic.github.io/archive/master.zip)
 
-*GIT*
+**GIT**
 
     git clone https://github.com/iterationmusic/iterationmusic.github.io.git
 
