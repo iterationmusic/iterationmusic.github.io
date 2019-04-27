@@ -69,8 +69,351 @@ But to be safe so you do not waste a bullet on some compost, tell them that thes
 
 ## Track list
 
-<<insertHTML:[player.html]
+### Ground Zero
 
-```{r, echo=FALSE}
-htmltools::includeHTML("player.html")
-```
+<audio controls>
+  <source src="01. Ground Zero.mp3" type="audio/mpeg">
+</audio>
+
+### Children of the Circuit
+
+<audio controls>
+  <source src="02. Children of the Circuit.mp3" type="audio/mpeg">
+</audio>
+
+### Climate Change _ Not That's Just Capitalism
+
+<audio controls>
+  <source src="04. Climate Change _ No That's Just Capitalism.mp3" type="audio/mpeg">
+</audio>
+
+### Class Struggle
+
+<audio controls>
+  <source src="05. Class Struggle.mp3" type="audio/mpeg">
+</audio>
+
+### First The Forest Die Then You Dance
+
+<audio controls>
+  <source src="06. First The Forest Die Then You Dance.mp3" type="audio/mpeg">
+</audio>
+
+### Earth Will Consume Your Children
+
+<audio controls>
+  <source src="07. Earth Will Consume Your Children.mp3" type="audio/mpeg">
+</audio>
+
+### Butterfly Effect
+
+<audio controls>
+  <source src="08. Butterfly Effect.mp3" type="audio/mpeg">
+</audio>
+
+### Blindspot
+
+<audio controls>
+  <source src="09. Blindspot.mp3" type="audio/mpeg">
+</audio>
+
+### Glass House
+
+<audio controls>
+  <source src="11. Glass House.mp3" type="audio/mpeg">
+</audio>
+
+### Manufacturing Consent
+
+<audio controls>
+  <source src="12. Manufacturing Consent.mp3" type="audio/mpeg">
+</audio>
+
+### Zombie Commodity
+
+<audio controls>
+  <source src="13. Zombie Commodity.mp3" type="audio/mpeg">
+</audio>
+
+### Turnkey Tyranny
+
+<audio controls>
+  <source src="14. Turnkey Tyranny.mp3" type="audio/mpeg">
+</audio>
+
+### Together We Walk Alone In The Night
+
+<audio controls>
+  <source src="15. Together We Walk Alone In The Night.mp3" type="audio/mpeg">
+</audio>
+
+### Our Own Battle
+
+<audio controls>
+  <source src="16. Our Own Battle.mp3" type="audio/mpeg">
+</audio>
+
+### Symphony of Stolen Society
+
+<audio controls>
+  <source src="17. Symphony Of Stolen Society.mp3" type="audio/mpeg">
+</audio>
+
+### Voice Of The Voiceless
+
+<audio controls>
+  <source src="18. Voice Of The Voiceless.mp3" type="audio/mpeg">
+</audio>
+
+### Rigged Rat Race
+
+<audio controls>
+  <source src="19. Rigged Rat Race.mp3" type="audio/mpeg">
+</audio>
+
+### Love For Killing Our Children
+
+<audio controls>
+  <source src="20. Love For Killing Our Children.mp3" type="audio/mpeg">
+</audio>
+
+### The Coming Insurrection
+
+<audio controls>
+  <source src="21. The Coming Insurrection.mp3" type="audio/mpeg">
+</audio>
+
+### Insurrection
+
+<audio controls>
+  <source src="22. Insurrection.mp3" type="audio/mpeg">
+</audio>
+
+### Gilets Jaunes
+
+<audio controls>
+  <source src="23. Gilets Jaunes.mp3" type="audio/mpeg">
+</audio>
+
+### Faith In Freedom
+
+<audio controls>
+  <source src="24. Faith In Freedom.mp3" type="audio/mpeg">
+</audio>
+
+### Freedom or Die Trying
+
+<audio controls>
+  <source src="25. Freedom Or Die Trying.mp3" type="audio/mpeg">
+</audio>
+
+### Laborwave
+
+<audio controls>
+  <source src="26. Laborwave.mp3" type="audio/mpeg">
+</audio>
+
+### Morphenomena
+
+<audio controls>
+  <source src="27. Morphenomena.mp3" type="audio/mpeg">
+</audio>
+
+### Radical
+
+<audio controls>
+  <source src="28. Radical.mp3" type="audio/mpeg">
+</audio>
+
+### Solidarity
+
+<audio controls>
+  <source src="29. Solidarity.mp3" type="audio/mpeg">
+</audio>
+
+### Praxis
+
+<audio controls>
+  <source src="30. Praxis.mp3" type="audio/mpeg">
+</audio>
+
+### Direct Action
+
+<audio controls>
+  <source src="31. Direct Action.mp3" type="audio/mpeg">
+</audio>
+
+### 161
+
+<audio controls>
+  <source src="32. 161.mp3" type="audio/mpeg">
+</audio>
+
+### Black Clad Warrior
+
+<audio controls>
+  <source src="33. Black Clad Warriors.mp3" type="audio/mpeg">
+</audio>
+
+### Expropriation
+
+<audio controls>
+  <source src="34. Expropriation.mp3" type="audio/mpeg">
+</audio>
+
+### Mutual Aid
+
+<audio controls>
+  <source src="35. Mutual Aid.mp3" type="audio/mpeg">
+</audio>
+
+### Anarchy In Order
+
+<audio controls>
+  <source src="36. Anarchy in Order.mp3" type="audio/mpeg">
+</audio>
+
+### Jouissance
+
+<audio controls>
+  <source src="37. Jouissance.mp3" type="audio/mpeg">
+</audio>
+
+### Heroes In Pajamas
+
+<audio controls>
+  <source src="38. Heroes In Pajamas.mp3" type="audio/mpeg">
+</audio>
+
+### I Fight For The Users
+
+<audio controls>
+  <source src="39. I Fight For The Users.mp3" type="audio/mpeg">
+</audio>
+
+### Decolonize
+
+<audio controls>
+  <source src="40. Decolonize.mp3" type="audio/mpeg">
+</audio>
+
+### Skybreak
+
+<audio controls>
+  <source src="41. Skybreak.mp3" type="audio/mpeg">
+</audio>
+
+### Fuck Society
+
+<audio controls>
+  <source src="42. Fuck Society.mp3" type="audio/mpeg">
+</audio>
+
+### Autonomous Anarchy Action
+
+<audio controls>
+  <source src="43. Autonomous Anarchy Action.mp3" type="audio/mpeg">
+</audio>
+
+### Ubuntu
+
+<audio controls>
+  <source src="44. Ubuntu.mp3" type="audio/mpeg">
+</audio>
+
+### Walkaway
+
+<audio controls>
+  <source src="45. Walkaway.mp3" type="audio/mpeg">
+</audio>
+
+### This Place Is For You And Me
+
+<audio controls>
+  <source src="46. This Place Is For You And Me.mp3" type="audio/mpeg">
+</audio>
+
+### Love Knows No Border
+
+<audio controls>
+  <source src="47. Love Knows No Border.mp3" type="audio/mpeg">
+</audio>
+
+### Great Commune Of The Planet Earth
+
+<audio controls>
+  <source src="48. Great Commune of Planet Earth.mp3" type="audio/mpeg">
+</audio>
+
+### Relative Absolute
+
+<audio controls>
+  <source src="49. Relatively Absolute.mp3" type="audio/mpeg">
+</audio>
+
+### Makhnovia
+
+<audio controls>
+  <source src="50. Makhnovia.mp3" type="audio/mpeg">
+</audio>
+
+### Control Is An Illusion
+
+<audio controls>
+  <source src="51. Control Is An Illusion.mp3" type="audio/mpeg">
+</audio>
+
+### Ecocide
+
+<audio controls>
+  <source src="52. Ecocide.mp3" type="audio/mpeg">
+</audio>
+
+### Collapse
+
+<audio controls>
+  <source src="53. Collapse.mp3" type="audio/mpeg">
+</audio>
+
+### Wild World
+
+<audio controls>
+  <source src="54. Wild World.mp3" type="audio/mpeg">
+</audio>
+
+### End Of The Ride
+
+<audio controls>
+  <source src="55. End Of The Ride.mp3" type="audio/mpeg">
+</audio>
+
+### Final Circle Of Humanity
+
+<audio controls>
+  <source src="56. Final Circle Of Humanity.mp3" type="audio/mpeg">
+</audio>
+
+### Moving On
+
+<audio controls>
+  <source src="57. Moving On.mp3" type="audio/mpeg">
+</audio>
+
+### The Crossing
+
+<audio controls>
+  <source src="58. The Crossing.mp3" type="audio/mpeg">
+</audio>
+
+### Terror Nullius
+
+<audio controls>
+  <source src="59. Terror Nullius.mp3" type="audio/mpeg">
+</audio>
+
+### The Sun Still Rises
+
+<audio controls>
+  <source src="60. The Sun Still Rises.mp3" type="audio/mpeg">
+</audio>
+
