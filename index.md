@@ -82,7 +82,7 @@ But to be safe so you do not waste a bullet on some compost, tell them that thes
   <source src="02. Children of the Circuit.mp3" type="audio/mpeg">
 </audio>
 
-### Climate Change _ Not That's Just Capitalism
+### Climate Change _ No That's Just Capitalism
 
 <audio controls>
   <source src="04. Climate Change _ No That's Just Capitalism.mp3" type="audio/mpeg">
