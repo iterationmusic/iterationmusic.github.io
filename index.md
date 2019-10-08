@@ -30,9 +30,7 @@ The author also hope that these works could inspire other musicians to explore, 
 
 ---
 
-The author believe that no license is necessary to be used for release freedom of these works, as there should be none of any label over any free work. However when someone attempted to copyright these works against people and stopping other from using them, all you gotta do is shove a rifle muzzle down their throat and pull the trigger. Make sure to double tap it.
-
-But to be safe so you do not waste a bullet on some compost, tell them that these works are **Public Domain CC0** or **GNU AFFERO GENERAL PUBLIC LICENSE 3.0** and they are the most free licenses one could think of. Free as freedom, not free beer, of course, if you know that FLOSS motto.
+The author believe that no license is necessary to be used for release freedom of these works, as there should be none of any label over any free work. These works are **Public Domain CC0** or **GNU AFFERO GENERAL PUBLIC LICENSE 3.0** and they are the most free licenses one could think of. Free as freedom, not free beer, of course, if you know that FLOSS motto.
 
 ---
 
